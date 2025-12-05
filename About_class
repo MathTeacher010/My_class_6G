@@ -1,0 +1,15 @@
+index.html
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <title>6-G SINF O‘QUVCHILARI</title>
+</head>
+<body>
+  <h1>6-G SINF O‘QUVCHILARI</h1>
+
+  <!-- O'quvchilar tugmalari -->
+  <a href="student1.html">O‘quvchi 1</a><br>
+  <a href="student2.html">O‘quvchi 2</a><br>
+</body>
+</html>
